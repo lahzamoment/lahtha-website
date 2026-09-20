@@ -24,7 +24,7 @@ import {
 } from "lucide-react";
 import { toast } from "sonner";
 
-const downloadUrl = "/manus-storage/lahza_77638d4a.apk";
+const downloadUrl = "https://lahthamap-zqyg2t3k.manus.space/manus-storage/lahza_77638d4a.apk";
 
 function BrandMark({ light = false }: { light?: boolean }) {
   return (
